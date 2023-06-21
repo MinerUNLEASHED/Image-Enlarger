@@ -8,3 +8,6 @@
  Input File Path (WITHOUT QUOTATIONS)
  See End Result!
  Note - It May Take A While To Run The Program, Depending On Your CPU, GPU, and RAM.
+
+ #
+ Image Enlarger © 2023 by MinerUNLEASHED is licensed under Attribution-NonCommercial-ShareAlike 4.0 International 
